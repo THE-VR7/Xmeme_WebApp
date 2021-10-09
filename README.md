@@ -2,6 +2,13 @@
 This is a Web Application to display the memes where user can also edit and add meme
 ScreenShots of Web Application : 
 
+Brief - 
+- Developed a Web Application to display the memes where user can also edit and add meme using Angular as frontend , Asp.Net Core as backened and MySql as db
+- Used Swagger to provide interface for Restful APIs 
+- Used PetaPoco(ORM) to make SQL queries fast and effecient
+
+
+
 Home Page - 
 
 ![home_page](https://raw.githubusercontent.com/THE-VR7/Xmeme_WebApp/master/ScreenShots/home.JPG)
